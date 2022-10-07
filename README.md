@@ -108,6 +108,10 @@ UPDATED REPORT
 
 ## Summary:
 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+**- District Summary:** Average Math Score was changed by 0.1 less than the original including Thomas High School, and there were no changes to the Average Reading Score. The % Passing Math was 0.2 below the original report, and % Passing Reading is 0.3 below the original report. The % Overall Passing is 0.1 below the original report once Thomas High School is excluded.
 
-There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt). 
+**- School Summary:** The % Passing Match was highly decreased from 93.27 to 66.91. The % Passing Reading was also highly decreased from 97.30 to 69.66, and the % Overall Passing went from 90.94 to 65.07.
+
+**- Math Scores by Grade:** 9th grade originally had 83.6 and the scores were replaced by nan.
+**-Reading Scores by Grade:** 9th grade originally had 83.6 and the scores were replaced by nan.
+
